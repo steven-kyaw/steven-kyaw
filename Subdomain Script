@@ -1,0 +1,9 @@
+How to create subdomain finder python script
+- first go to blackbox.ai 
+- write prompt "Develop a Python program that automates the process of extracting sub-domains from the crt.sh search results" 
+- We will use crt.sh to extract sub-domains
+- Copy code to visual studio
+- install python3 
+- pip install requests
+- save file
+- run in terminal
